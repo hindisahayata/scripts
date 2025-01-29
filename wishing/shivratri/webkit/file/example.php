@@ -610,7 +610,7 @@ $(document).ready(function(){$curtainopen=!1,$(".rope").click(function(){return 
 </marquee>
         <div class="mainContainer">
             <div style="animation: swing 5s infinite;">
-                <h1 style="-webkit-text-stroke: 1px black; color: white; text-shadow: 3px 3px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;" id="name">SSSSSS</h1>
+                <h1 style="-webkit-text-stroke: 1px black; color: white; text-shadow: 3px 3px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;" id="name"></h1>
             </div>
             <div class="pyro">
            <div class="before"></div>
@@ -656,11 +656,11 @@ $(document).ready(function(){$curtainopen=!1,$(".rope").click(function(){return 
 </div>
 <br>  
               <span style="font-size:22px;text-shadow: 1px 1px 3px #FFEB3B, 1px 1px 3px #FFEB3B, -1px -1px 3px #FFEB3B, -1px -1px 3px #FFEB3B;color:#E91E63;">
-                <marquee><b><i>“SSSSSS की तरफ से आपको और आपके परिवार को गणतंत्र दिवस की हार्दिक शुभकामनायें !!”</b></i></marquee>
+                <marquee><b><i>“ की तरफ से आपको और आपके परिवार को गणतंत्र दिवस की हार्दिक शुभकामनायें !!”</b></i></marquee>
             </span>
             <br>
             <br>
-            <div class="glow">SSSSSS</div>
+            <div class="glow"></div>
             <br>
             <form method="get" action="ready.php">
                 <div class="enter-name">
